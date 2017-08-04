@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scene/Hello_Alice_Demo_Build.unity
+  isLoaded: 1
+  isActive: 1

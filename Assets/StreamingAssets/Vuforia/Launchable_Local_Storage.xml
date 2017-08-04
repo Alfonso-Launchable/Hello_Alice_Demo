@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Laugh" size="1.000000 0.576596" />
+    <ImageTarget name="HelloCover" size="1.000000 1.264706" />
+    <ImageTarget name="george-washington-on-one-dollar-bill" size="1.000000 0.414988" />
+    <ImageTarget name="Business_card_v3" size="1.000000 2.481132" />
+    <ImageTarget name="Jump" size="1.000000 0.694087" />
+  </Tracking>
+</QCARConfig>
