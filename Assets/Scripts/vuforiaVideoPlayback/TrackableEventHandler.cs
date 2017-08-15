@@ -99,10 +99,10 @@ public class TrackableEventHandler : MonoBehaviour, ITrackableEventHandler
     private void OnTrackingFound()
     {
 		// screen caputre value
-		capture = GameObject.FindObjectOfType<screenShotSharing> ().noAnimation;
-        newCapture = GameObject.FindObjectOfType<screenShotSharing> ().noPhoneEmailButtons;
-		GameObject.FindObjectOfType<screenShotSharing> ().currentPhone = phoneButton;
-		GameObject.FindObjectOfType<screenShotSharing> ().currentEmail = emailButton;
+//		capture = GameObject.FindObjectOfType<screenShotSharing> ().noAnimation;
+//        newCapture = GameObject.FindObjectOfType<screenShotSharing> ().noPhoneEmailButtons;
+//		GameObject.FindObjectOfType<screenShotSharing> ().currentPhone = phoneButton;
+//		GameObject.FindObjectOfType<screenShotSharing> ().currentEmail = emailButton;
 
         print("this is the noPhoneEmailButtons" + newCapture);
 
